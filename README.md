@@ -9,17 +9,6 @@
 
 </div>
 
-## 📑 Table of Contents (TOC)
-* [What Is It?](#what-is-it)
-* [How it Works](#-how-it-works)
-    * [Get Note Arrays from an LLM](#1-get-note-arrays-from-an-llm)
-    * [Paste the Array into the Script](#2-paste-the-array-into-the-script)
-    * [Run the Script](#3-run-the-script)
-    * [Open Your MIDI File](#4-open-your-midi-file)
-* [Data Structure Parameters](#-data-structure-parameters)
-* [Features](#-features)
-* [Limitations](#-limitations)
-
 ---
 
 
